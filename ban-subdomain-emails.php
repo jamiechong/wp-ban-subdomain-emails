@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Ban Subdomain Emails
-Plugin URI: https://github.com/jamiechong/ban-subdomain-emails
-Description: Prevent people from registering with emails that contain a subdomain
+Plugin URI: https://github.com/jamiechong/wp-ban-subdomain-emails
+Description: Prevent people from registering with emails that contain a subdomain to help reduce spam.
 Author: Jamie Chong
 Version: 1.0.0
 Author URI: http://jamiechong.ca
