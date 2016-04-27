@@ -14,7 +14,7 @@ A lot of registration spam comes from emails with a subdomain. Spammers control 
 
 Reputable users will have a normal email address from a reasonable domain like @gmail.com, @mylegitbusiness.com, @outlook.com, @myschool.edu, etc.
 
-There is no configuration and no setup. It simply just works. The plugin logs all blocked registrations so you can find potential false-positives. 
+There is no configuration and no setup. It simply just works. The plugin logs all blocked registrations so you can find potential false-positives. Find a link to this log file on the Plugins page where you activate/deactivate this plugin.
 
 ==Changelog==
 
