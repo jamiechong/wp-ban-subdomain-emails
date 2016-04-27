@@ -19,7 +19,7 @@ There is no configuration and no setup. It simply just works. The plugin logs al
 ==Changelog==
 
 =  1.0.0 =
-*released 2016-04-13*
+*released 2016-04-26*
 
 * First public version.
 
