@@ -1,5 +1,5 @@
 === Ban Subdomain Emails ===
-Contributors: Ipstenu
+Contributors: jamiechong
 Tags: email, ban, registration, spam, akismet, all-in-one, anti-captcha, anti-spam, antispam, antispambot, blacklist, block spam, bot, bots, e-mail, email, email address, login, no captcha, nocaptcha, protect, protection, register, registration spam, robot, robots, signup, signup spam, spam blocker, spam filter, spambot, user registration spam, 
 Requires at least: 4.0
 Tested up to: 4.5
